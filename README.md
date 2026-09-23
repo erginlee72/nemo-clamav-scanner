@@ -19,4 +19,5 @@ A lightweight, robust, and network-friendly virus scanning action for the **Nemo
 ## 📦 One-Line Installation / Tek Komutla Kurulum
 
 Run this in your terminal:
+```bash
 curl -fsSL https://raw.githubusercontent.com/erginlee72/nemo-clamav-scanner/main/install.sh | bash
